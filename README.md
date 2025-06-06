@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="Logo.png" width="400" alt="Aquarium Logo">
+  <img src="cg-project/Logo.png" width="400" alt="Aquarium Logo">
   <br>
 </h1>
 
