@@ -33,6 +33,7 @@
   <a href="#overview">Overview</a> •
   <a href="#features">Features</a> •
   <a href="#getting-started">Getting Started</a> •
+  <a href="#final-report">Final Report</a> •
   <a href="#controls">Controls</a> •
   <a href="#credits">Credits</a>
 </p>
@@ -75,7 +76,16 @@ Aquarium is a browser-based, real-time underwater ecosystem built with WebGL, GL
     
 3. **Adjust Settings**  
     Use the on-screen UI panel (top-left) to enable or disable effects, adjust focal distances, tweak terrain or lighting parameters, and set boid counts.
-    
+
+## Final Report
+
+For a detailed overview of how we built Aquarium, including step-by-step explanations, videos, and visuals, you can view our full project documentation:
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhzYTJncW5nZHNmc2xtbnptaTIyY2Qxcm00ZzVrbjNodjR4ZDY3OCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KZhMoo6BxiylmJooMk/giphy.gif" width ="35"> **[Open Final Report (local HTML)](final-report/final.html)**
+
+> To view the report properly, clone the repository and open `final-report/final.html` in your browser. Make sure the `final-report/` folder is present with all its assets.
+
+
 
 ## Controls
     
@@ -100,3 +110,8 @@ Aquarium is a browser-based, real-time underwater ecosystem built with WebGL, GL
     • Youcef Amar  
     • Erik Hübner  
     • André Cadet
+
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2g4dTRsNjl6cWxsM3FmMzFzZGxxMmhwaW92ZDcxZTA1bjd2Mm1ydCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YLjpioGwkjt5ArI1ZA/giphy.gif" width ="100" align=right>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2g4dTRsNjl6cWxsM3FmMzFzZGxxMmhwaW92ZDcxZTA1bjd2Mm1ydCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/FA1w9wsPEyWhEGwoJO/giphy.gif" width ="100" align=left>
+  
