@@ -107,9 +107,9 @@ For a detailed overview of how we built Aquarium, including step-by-step explana
 - **Course:** CS-341 (Computer Graphics), EPFL, Spring 2025
     
 - **Team Members:**  
-    • Youcef Amar  
-    • Erik Hübner  
-    • André Cadet
+    • Youcef Amar: [@2Fick](https://github.com/2Fick)  
+    • Erik Hübner : [@akshire](https://github.com/akshire)  
+    • André Cadet : [@RagdollGoDown](https://github.com/RagdollGoDown)
 
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2g4dTRsNjl6cWxsM3FmMzFzZGxxMmhwaW92ZDcxZTA1bjd2Mm1ydCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YLjpioGwkjt5ArI1ZA/giphy.gif" width ="100" align=right>
